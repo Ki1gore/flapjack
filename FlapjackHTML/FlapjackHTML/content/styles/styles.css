@@ -4,7 +4,7 @@
     color: #ffeee6;
     /*"Roboto Condensed" for headers instead of Otari*/
     font-family: "Oxygen", sans-serif;
-    background: url("/Content/images/flapjack_bodyBackground_new.png");
+    background: url("../images/flapjack_bodyBackground_new.png");
     background-repeat: repeat-x;
     
 }
@@ -38,7 +38,7 @@ ul li {
     height:460px;
     width:100%; /*set to 100% of the width of the parent element*/
     margin:0 auto;
-    background: url("/Content/images/flapJack_largerMainImage.png");
+    background: url("../images/flapJack_largerMainImage.png");
     background-repeat:no-repeat;
     background-position:top center; /*positions (aligns) whatever is used in the background (only visible with images)*/
 }
