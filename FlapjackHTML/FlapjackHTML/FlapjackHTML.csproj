@@ -57,15 +57,15 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="content\images\flapJackImage_final.png" />
-    <Content Include="content\images\flapjack_arrow_close.png" />
-    <Content Include="content\images\flapjack_bodyBackground_new.png" />
-    <Content Include="content\images\flapjack_body_background.png" />
-    <Content Include="content\images\flapJack_largerMainImage.png" />
-    <Content Include="content\images\flapjack_sendButton.png" />
-    <Content Include="content\styles\reset.css" />
+    <Content Include="Content\images\flapJackImage_final.png" />
+    <Content Include="Content\images\flapjack_arrow_close.png" />
+    <Content Include="Content\images\flapjack_bodyBackground_new.png" />
+    <Content Include="Content\images\flapjack_body_background.png" />
+    <Content Include="Content\images\flapJack_largerMainImage.png" />
+    <Content Include="Content\images\flapjack_sendButton.png" />
+    <Content Include="Content\styles\reset.css" />
     <Content Include="flapjack.html" />
-    <Content Include="content\styles\styles.css" />
+    <Content Include="Content\styles\styles.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
